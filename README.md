@@ -18,5 +18,5 @@ We will be using the VS Code Terminal for test execution.*In the main project di
 
 - **For Cypress Test Runner method** execute one of these commands **npx cypress open or npm run test** afterwards cypress test runner will show up and you will see the two tests in the test runner. You can execute these tests one by one by clicking on them or clicking on "**Run 2 integration specs**" from the top-right corner of the test runner.
 
--  **For Command line execution** **with headless browser** execute one of these commands, **npx cypress run** or **npm run test:headless** after execution you will see the test results in the VS Code Terminal and you can see the test videos under the cypress/videos folder.
+-  **For Command line execution** **with headless browser** execute one of these commands, **npx cypress run** or **npm run test:headless** after execution you will see the test results in the VS Code Terminal and you can see the test videos under the /cypress/videos folder.
 
