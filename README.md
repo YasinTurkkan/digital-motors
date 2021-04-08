@@ -12,7 +12,7 @@ We have specific pre-requisites before Cypress installation
 
 
 
-**How to Execute Cypress Tests **
+#### How to Execute Cypress Tests 
 
 We will be using the VS Code Terminal for test execution.*In the main project directory you have two ways to execute tests in VS Code Terminal. First with the **cypress test runner**, Second with the **command line execution with the headless browser** which is faster than the first method.*
 
