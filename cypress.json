@@ -1,0 +1,7 @@
+{
+    "testFiles": "**/**.spec.js",
+    "defaultCommandTimeout": 10000,
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 95000,
+    "browser": "chrome"
+}

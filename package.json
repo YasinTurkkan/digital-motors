@@ -1,0 +1,16 @@
+{
+  "name": "digitalmotors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^7.0.1"
+  },
+  "scripts": {
+    "test":"npx cypress open",
+    "test:headless": "npx cypress run"
+  },
+  "author": "",
+  "license": "ISC"
+}
